@@ -1,0 +1,15 @@
+{
+  "name": "hashingproject",
+  "version": "0.0.1",
+  "description": "a simple hasher",
+  "dependencies" : {
+    "crypto"   :  "0.1.x",
+    "ezcrypto" :  "0.1.x",
+    "sha1" :  "0.2.x",
+    "MD5"    :  "0.1.x",
+    "bcrypt" :  "0.1.x",
+    "plates"   :  "0.1.x"
+  }
+}
+
+      
